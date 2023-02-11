@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R= dorw word
+chmod -reference = dorw word
